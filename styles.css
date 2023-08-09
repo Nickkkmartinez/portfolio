@@ -1,0 +1,34 @@
+* {background-color: grey;
+    font-family: "verdana", Times, serif;
+
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+.subtitulos:hover {
+    text-decoration-line: underline;
+    color: brown;
+}
+.links:hover {
+    background-color: powderblue;
+  transition: background-color .5s;
+}
+.links:hover {
+    background-color: gold;
+}
+.experiencia {
+    color: maroon;
+    
+}
+#fotocarne {
+    border: 5px solid blue;
+    border-radius: 10px;
+}
+#boton {
+    border-radius: 10px;
+    padding-bottom: 5px;
+  }
